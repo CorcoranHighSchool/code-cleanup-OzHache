@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
-{
+{ 
     //Vehicle game object to follow
     [SerializeField]private GameObject player;
     //offset from the vehicle
